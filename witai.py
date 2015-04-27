@@ -1,11 +1,5 @@
 import json
-import logging
 import requests
-
-# logging.getLogger("wit").setLevel(logging.WARNING)
-# wit_logger = logging.getLogger('wit')
-# wit_logger.setLevel(logging.CRITICAL)
-
 
 class intent(object):
 	def __init__(self,buildingObject):
