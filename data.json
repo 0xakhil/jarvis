@@ -1,0 +1,101 @@
+{
+  "name": "home",
+  "rooms": [
+    {
+      "devicetypes": [
+        {
+          "type": "Fan",
+          "devices": [
+            {
+              "name": "fan1",
+              "location": "bedroom"
+            }
+          ]
+        },
+        {
+          "type": "Light",
+          "devices": [
+            {
+              "name": "light1",
+              "location": "bedroom"
+            }
+          ]
+        }
+      ],
+      "name": "bedroom"
+    },
+    {
+      "devicetypes": [
+        {
+          "type": "Fan",
+          "devices": [
+            {
+              "name": "fan1",
+              "location": "kitchen"
+            }
+          ]
+        },
+        {
+          "type": "Fan",
+          "devices": [
+            {
+              "name": "fan2",
+              "location": "kitchen"
+            }
+          ]
+        },
+        {
+          "type": "Light",
+          "devices": [
+            {
+              "name": "light1",
+              "location": "kitchen"
+            }
+          ]
+        }
+      ],
+      "name": "kitchen"
+    },
+    {
+      "devicetypes": [
+        {
+          "type": "Fan",
+          "devices": [
+            {
+              "name": "fan1",
+              "location": "garage"
+            }
+          ]
+        },
+        {
+          "type": "Light",
+          "devices": [
+            {
+              "name": "light1",
+              "location": "garage"
+            }
+          ]
+        },
+        {
+          "type": "Light",
+          "devices": [
+            {
+              "name": "light2",
+              "location": "garage"
+            }
+          ]
+        },
+        {
+          "type": "Light",
+          "devices": [
+            {
+              "name": "light3",
+              "location": "garage"
+            }
+          ]
+        }
+      ],
+      "name": "garage"
+    }
+  ]
+}
